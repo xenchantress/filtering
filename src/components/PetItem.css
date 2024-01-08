@@ -1,0 +1,21 @@
+.pet-item-container {
+    text-align: center;
+}
+
+.pet-image {
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.change-image-btn {
+    padding: 8px 12px;
+    background-color: aqua;
+    color: bisque;
+    border: none;
+    border-radius: 4px;
+}
+
+.change-image-btn:hover{
+    background-color: blue;
+}
